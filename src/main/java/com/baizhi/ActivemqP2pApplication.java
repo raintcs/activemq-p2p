@@ -14,6 +14,7 @@ public class ActivemqP2pApplication {
         System.out.println("sss");
         System.out.println("tan");
         System.out.println("he is a good man!");
+         System.out.println("good");
     }
 
 

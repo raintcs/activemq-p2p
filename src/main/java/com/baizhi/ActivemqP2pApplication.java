@@ -11,6 +11,7 @@ public class ActivemqP2pApplication {
         SpringApplication.run(ActivemqP2pApplication.class, args);
         System.out.println("ttt");
         System.out.println("ccc");
+        System.out.println("sss");
     }
 
 

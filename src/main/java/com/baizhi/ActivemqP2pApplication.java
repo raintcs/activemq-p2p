@@ -9,6 +9,8 @@ public class ActivemqP2pApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ActivemqP2pApplication.class, args);
+        System.out.println("ttt");
     }
+
 
 }

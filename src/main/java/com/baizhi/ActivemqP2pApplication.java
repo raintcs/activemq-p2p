@@ -16,6 +16,7 @@ public class ActivemqP2pApplication {
         System.out.println("he is a good man!");
          System.out.println("good");
         System.out.println("我是谈昌森，今年18");
+        System.out.println("去你妹！装纯卖乖恶心谁？");
     }
 
 
